@@ -1,0 +1,13 @@
+cradle:
+  cabal:
+    - path: "./src"
+      component: "lib:repro"
+    - path: "./test"
+      component: "test:repro-test"
+
+
+  # stack:
+  #   - path: "./src"
+  #     component: "repro:lib"
+  #   - path: "./test"
+  #     component: "repro:test:repro-test"
