@@ -1,0 +1,7 @@
+resolver: lts-15.7
+
+packages:
+- .
+
+extra-deps:
+- vinyl-0.12.2@sha256:cefc269fd137841861c13f28a3f20f5973ef24e9f1e6245b77b688f1cbd979de

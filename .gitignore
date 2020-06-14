@@ -1,0 +1,18 @@
+# Build tools
+## Stack
+.stack-work/
+
+## Cabal
+dist-newstyle/
+.ghc.environment.*
+cabal.project.local
+
+db.json
+
+# Mac OS
+.DS_Store
+
+# local chain related files
+local-chain/node-dir/
+local-chain/baker.log
+local-chain/node.log
